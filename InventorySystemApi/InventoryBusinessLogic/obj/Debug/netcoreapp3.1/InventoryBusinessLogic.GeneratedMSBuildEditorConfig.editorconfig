@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = InventoryBusinessLogic
+build_property.ProjectDir = C:\inetpub\wwwroot\InventorySystemApi\InventoryBusinessLogic\
